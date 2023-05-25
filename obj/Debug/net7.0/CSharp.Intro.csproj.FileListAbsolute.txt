@@ -1,0 +1,15 @@
+/Users/tomfyfe/codes/C#/CSharp.Intro/bin/Debug/net7.0/CSharp.Intro
+/Users/tomfyfe/codes/C#/CSharp.Intro/bin/Debug/net7.0/CSharp.Intro.deps.json
+/Users/tomfyfe/codes/C#/CSharp.Intro/bin/Debug/net7.0/CSharp.Intro.runtimeconfig.json
+/Users/tomfyfe/codes/C#/CSharp.Intro/bin/Debug/net7.0/CSharp.Intro.dll
+/Users/tomfyfe/codes/C#/CSharp.Intro/bin/Debug/net7.0/CSharp.Intro.pdb
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.csproj.AssemblyReference.cache
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.AssemblyInfoInputs.cache
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.AssemblyInfo.cs
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.csproj.CoreCompileInputs.cache
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.dll
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/refint/CSharp.Intro.dll
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.pdb
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/CSharp.Intro.genruntimeconfig.cache
+/Users/tomfyfe/codes/C#/CSharp.Intro/obj/Debug/net7.0/ref/CSharp.Intro.dll
